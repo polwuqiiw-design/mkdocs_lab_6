@@ -1,0 +1,10 @@
+site_name: Портфолио Анастасии
+site_description: Мои лабораторные работы по программированию
+
+nav:
+  - Главная: index.md
+  - Лабораторные работы: labs.md
+
+theme:
+  name: mkdocs
+  locale: ru
